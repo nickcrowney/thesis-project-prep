@@ -4,8 +4,10 @@
 
 ### Nick
 
-- Quiz with online teams. Could include geomap round with street views from around the world.
+- Quiz with online teams. Could include geomap round with street views from around the world. Could form a platform for meeting fellow nerds.
 - Trend finder. For youtube videos, for types of content, music that is popular, holiday destinations etc.
+- use websockets to show people around you who fit in with the kind of people you want to meet or want to do what you want to do. Within a range. People could rate the people so that some basic trust is there.
+- Fact checker extension. Or speak to you phone which fact checks what you said.
 
 ### Alastair
 
