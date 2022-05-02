@@ -9,6 +9,7 @@
 - use websockets to show people around you who fit in with the kind of people you want to meet or want to do what you want to do. Within a range. People could rate the people so that some basic trust is there.
 - Fact checker extension. Or speak to you phone which fact checks what you said.
 - natural events map and notifications. volcanoes, recent earthquakes, tornados etc on a map filterable.
+- local natural dangers. Shows all dangerous animals or plants in your area so you can relax when you go to a foreign country.
 
 ### Alastair
 
