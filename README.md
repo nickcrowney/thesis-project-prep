@@ -10,6 +10,7 @@
 - Fact checker extension. Or speak to you phone which fact checks what you said.
 - natural events map and notifications. volcanoes, recent earthquakes, tornados etc on a map filterable.
 - local natural dangers. Shows all dangerous animals or plants in your area so you can relax when you go to a foreign country.
+- automatic song maker.
 
 ### Alastair
 
