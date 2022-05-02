@@ -8,6 +8,7 @@
 - Trend finder. For youtube videos, for types of content, music that is popular, holiday destinations etc.
 - use websockets to show people around you who fit in with the kind of people you want to meet or want to do what you want to do. Within a range. People could rate the people so that some basic trust is there.
 - Fact checker extension. Or speak to you phone which fact checks what you said.
+- natural events map and notifications. volcanoes, recent earthquakes, tornados etc on a map filterable.
 
 ### Alastair
 
